@@ -1,0 +1,1 @@
+var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="w(ﾟДﾟ)w 救命啊啊啊啊啊！",clearTimeout(titleTime)):(document.title="♪(^∇^*)我老婆好美！"+OriginTitile,titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));
