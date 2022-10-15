@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "MiSans Normal";
+    src: url("MiSans-Normal.eot"); /* IE9 */
+    src: url("MiSans-Normal.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MiSans-Normal.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("MiSans-Normal.woff") format("woff"), /* chrome, firefox */
+    url("MiSans-Normal.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("MiSans-Normal.svg#MiSans Normal") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
