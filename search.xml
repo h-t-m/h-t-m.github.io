@@ -24,9 +24,9 @@
             
             <tag> BUUCTF </tag>
             
-            <tag> Web </tag>
-            
             <tag> 网络安全 </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
@@ -88,13 +88,13 @@
             
             <tag> 网络安全 </tag>
             
-            <tag> SQL 注入 </tag>
-            
             <tag> 代码审计 </tag>
             
             <tag> 暴力破解 </tag>
             
             <tag> 反序列化 </tag>
+            
+            <tag> SQL 注入 </tag>
             
         </tags>
       
@@ -368,9 +368,9 @@
             
             <tag> BUUCTF </tag>
             
-            <tag> Web </tag>
-            
             <tag> 网络安全 </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
